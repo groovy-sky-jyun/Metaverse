@@ -198,3 +198,433 @@
 오전 2:46:54  [main] 	Deinitializing Modules
 오전 2:46:54  [main] 	Deinitializing Control Panel
 
+오전 1:42:42  [main] 	Initializing Control Panel
+오전 1:42:42  [main] 	Windows Version:  Home  64-bit
+오전 1:42:42  [main] 	XAMPP Version: 8.2.4
+오전 1:42:42  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오전 1:42:42  [main] 	Running with Administrator rights - good!
+오전 1:42:42  [main] 	XAMPP Installation Directory: "c:\users\becau\desktop\metaverse\apm\"
+오전 1:42:42  [main] 	Checking for prerequisites
+오전 1:42:44  [main] 	All prerequisites found
+오전 1:42:44  [main] 	Initializing Modules
+오전 1:42:45  [main] 	The FileZilla module is disabled
+오전 1:42:45  [main] 	The Mercury module is disabled
+오전 1:42:45  [main] 	The Tomcat module is disabled
+오전 1:42:45  [main] 	Starting Check-Timer
+오전 1:42:45  [main] 	Control Panel Ready
+오전 1:42:47  [Apache] 	Attempting to start Apache app...
+오전 1:42:48  [Apache] 	Status change detected: running
+오전 1:42:49  [mysql] 	Attempting to start MySQL app...
+오전 1:42:49  [mysql] 	Status change detected: running
+오전 1:42:55  [mysql] 	Status change detected: stopped
+오전 1:42:55  [mysql] 	Error: MySQL shutdown unexpectedly.
+오전 1:42:55  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오전 1:42:55  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오전 1:42:55  [mysql] 	Press the Logs button to view error logs and check
+오전 1:42:55  [mysql] 	the Windows Event Viewer for more clues
+오전 1:42:55  [mysql] 	If you need more help, copy and post this
+오전 1:42:55  [mysql] 	entire log window on the forums
+오전 1:43:06  [mysql] 	Attempting to start MySQL app...
+오전 1:43:06  [mysql] 	Status change detected: running
+오전 1:48:52  [Apache] 	Attempting to stop Apache (PID: 15616)
+오전 1:48:52  [Apache] 	Attempting to stop Apache (PID: 21104)
+오전 1:48:52  [Apache] 	Status change detected: stopped
+오전 1:48:53  [mysql] 	Attempting to stop MySQL app...
+오전 1:48:53  [mysql] 	Status change detected: stopped
+오전 1:49:19  [Apache] 	Status change detected: running
+오전 1:49:19  [mysql] 	Status change detected: running
+오전 1:49:27  [Apache] 	Status change detected: stopped
+오전 1:49:34  [mysql] 	Status change detected: stopped
+오전 1:49:57  [main] 	Deinitializing Modules
+오전 1:49:57  [main] 	Deinitializing Control Panel
+
+오전 1:49:31  [main] 	Initializing Control Panel
+오전 1:49:31  [main] 	Windows Version:  Home  64-bit
+오전 1:49:31  [main] 	XAMPP Version: 8.2.4
+오전 1:49:31  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오전 1:49:31  [main] 	Running with Administrator rights - good!
+오전 1:49:31  [main] 	XAMPP Installation Directory: "c:\users\becau\desktop\metaverse\apm\"
+오전 1:49:31  [main] 	Checking for prerequisites
+오전 1:49:31  [main] 	All prerequisites found
+오전 1:49:31  [main] 	Initializing Modules
+오전 1:49:31  [mysql] 	XAMPP MySQL is already running on port 3306
+오전 1:49:31  [main] 	The FileZilla module is disabled
+오전 1:49:31  [main] 	The Mercury module is disabled
+오전 1:49:31  [main] 	The Tomcat module is disabled
+오전 1:49:31  [main] 	Starting Check-Timer
+오전 1:49:31  [main] 	Control Panel Ready
+오전 1:49:34  [mysql] 	Attempting to stop MySQL app...
+오전 1:49:34  [mysql] 	Status change detected: stopped
+오전 1:49:57  [main] 	Deinitializing Modules
+오전 1:49:57  [main] 	Deinitializing Control Panel
+
+오후 4:10:04  [main] 	Initializing Control Panel
+오후 4:10:04  [main] 	Windows Version:  Home  64-bit
+오후 4:10:04  [main] 	XAMPP Version: 8.2.4
+오후 4:10:04  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 4:10:04  [main] 	Running with Administrator rights - good!
+오후 4:10:04  [main] 	XAMPP Installation Directory: "c:\users\becau\desktop\metaverse\apm\"
+오후 4:10:04  [main] 	Checking for prerequisites
+오후 4:10:04  [main] 	All prerequisites found
+오후 4:10:04  [main] 	Initializing Modules
+오후 4:10:04  [mysql] 	XAMPP MySQL is already running on port 3306
+오후 4:10:04  [main] 	The FileZilla module is disabled
+오후 4:10:04  [main] 	The Mercury module is disabled
+오후 4:10:04  [main] 	The Tomcat module is disabled
+오후 4:10:04  [main] 	Starting Check-Timer
+오후 4:10:04  [main] 	Control Panel Ready
+오후 4:10:11  [Apache] 	Attempting to start Apache app...
+오후 4:10:12  [Apache] 	Status change detected: running
+오전 1:24:12  [Apache] 	Attempting to stop Apache (PID: 28760)
+오전 1:24:12  [Apache] 	Attempting to stop Apache (PID: 29640)
+오전 1:24:12  [Apache] 	Status change detected: stopped
+오전 1:24:12  [mysql] 	Attempting to stop MySQL app...
+오전 1:24:13  [mysql] 	Status change detected: stopped
+오전 1:42:29  [Apache] 	Status change detected: running
+오전 1:42:29  [mysql] 	Status change detected: running
+오전 1:42:31  [Apache] 	Status change detected: stopped
+오전 1:42:31  [mysql] 	Status change detected: stopped
+오전 1:42:48  [Apache] 	Status change detected: running
+오전 1:42:49  [mysql] 	Status change detected: running
+오전 1:42:54  [mysql] 	Status change detected: stopped
+오전 1:43:06  [mysql] 	Status change detected: running
+오전 1:48:52  [Apache] 	Status change detected: stopped
+오전 1:48:53  [mysql] 	Status change detected: stopped
+오전 1:49:19  [Apache] 	Status change detected: running
+오전 1:49:19  [mysql] 	Status change detected: running
+오전 1:49:27  [Apache] 	Status change detected: stopped
+오전 1:49:34  [mysql] 	Status change detected: stopped
+오전 1:49:57  [main] 	Deinitializing Modules
+오전 1:49:57  [main] 	Deinitializing Control Panel
+
+오후 7:46:14  [main] 	Initializing Control Panel
+오후 7:46:14  [main] 	Windows Version:  Home  64-bit
+오후 7:46:14  [main] 	XAMPP Version: 8.2.4
+오후 7:46:14  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 7:46:14  [main] 	Running with Administrator rights - good!
+오후 7:46:14  [main] 	XAMPP Installation Directory: "c:\users\becau\desktop\metaverse\apm\"
+오후 7:46:14  [main] 	Checking for prerequisites
+오후 7:46:16  [main] 	All prerequisites found
+오후 7:46:16  [main] 	Initializing Modules
+오후 7:46:16  [mysql] 	XAMPP MySQL is already running on port 3306
+오후 7:46:16  [main] 	The FileZilla module is disabled
+오후 7:46:16  [main] 	The Mercury module is disabled
+오후 7:46:16  [main] 	The Tomcat module is disabled
+오후 7:46:16  [main] 	Starting Check-Timer
+오후 7:46:16  [main] 	Control Panel Ready
+오후 7:46:18  [Apache] 	Attempting to start Apache app...
+오후 7:46:18  [Apache] 	Status change detected: running
+오후 10:02:21  [Apache] 	Attempting to stop Apache (PID: 12856)
+오후 10:02:21  [Apache] 	Attempting to stop Apache (PID: 9444)
+오후 10:02:21  [Apache] 	Status change detected: stopped
+오후 10:02:21  [mysql] 	Attempting to stop MySQL app...
+오후 10:02:22  [mysql] 	Status change detected: stopped
+오후 10:02:33  [main] 	Deinitializing Modules
+오후 10:02:33  [main] 	Deinitializing Control Panel
+
+오후 6:57:48  [main] 	Initializing Control Panel
+오후 6:57:48  [main] 	Windows Version:  Home  64-bit
+오후 6:57:48  [main] 	XAMPP Version: 8.2.4
+오후 6:57:48  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 6:57:48  [main] 	Running with Administrator rights - good!
+오후 6:57:48  [main] 	XAMPP Installation Directory: "c:\users\becau\desktop\metaverse\apm\"
+오후 6:57:48  [main] 	Checking for prerequisites
+오후 6:57:50  [main] 	All prerequisites found
+오후 6:57:50  [main] 	Initializing Modules
+오후 6:57:50  [mysql] 	XAMPP MySQL is already running on port 3306
+오후 6:57:50  [main] 	The FileZilla module is disabled
+오후 6:57:50  [main] 	The Mercury module is disabled
+오후 6:57:50  [main] 	The Tomcat module is disabled
+오후 6:57:50  [main] 	Starting Check-Timer
+오후 6:57:50  [main] 	Control Panel Ready
+오후 6:57:52  [Apache] 	Attempting to start Apache app...
+오후 6:57:52  [Apache] 	Status change detected: running
+오후 9:45:33  [Apache] 	Attempting to stop Apache (PID: 22408)
+오후 9:45:33  [Apache] 	Attempting to stop Apache (PID: 18972)
+오후 9:45:33  [Apache] 	Status change detected: stopped
+오후 9:45:34  [mysql] 	Attempting to stop MySQL app...
+오후 9:45:34  [mysql] 	Status change detected: stopped
+오후 9:45:42  [main] 	Deinitializing Modules
+오후 9:45:42  [main] 	Deinitializing Control Panel
+
+오후 3:44:08  [main] 	Initializing Control Panel
+오후 3:44:08  [main] 	Windows Version:  Home  64-bit
+오후 3:44:08  [main] 	XAMPP Version: 8.2.4
+오후 3:44:08  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 3:44:08  [main] 	Running with Administrator rights - good!
+오후 3:44:08  [main] 	XAMPP Installation Directory: "c:\users\becau\desktop\metaverse\apm\"
+오후 3:44:08  [main] 	Checking for prerequisites
+오후 3:44:10  [main] 	All prerequisites found
+오후 3:44:10  [main] 	Initializing Modules
+오후 3:44:10  [Apache] 	XAMPP Apache is already running on port 80
+오후 3:44:10  [Apache] 	XAMPP Apache is already running on port 443
+오후 3:44:10  [mysql] 	XAMPP MySQL is already running on port 3306
+오후 3:44:10  [main] 	The FileZilla module is disabled
+오후 3:44:10  [main] 	The Mercury module is disabled
+오후 3:44:10  [main] 	The Tomcat module is disabled
+오후 3:44:10  [main] 	Starting Check-Timer
+오후 3:44:10  [main] 	Control Panel Ready
+오후 3:44:17  [Apache] 	Status change detected: stopped
+오후 3:44:17  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 3:44:17  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 3:44:17  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 3:44:17  [Apache] 	Press the Logs button to view error logs and check
+오후 3:44:17  [Apache] 	the Windows Event Viewer for more clues
+오후 3:44:17  [Apache] 	If you need more help, copy and post this
+오후 3:44:17  [Apache] 	entire log window on the forums
+오후 3:44:48  [Apache] 	Attempting to start Apache app...
+오후 3:44:48  [Apache] 	Status change detected: running
+오후 5:00:57  [Apache] 	Status change detected: stopped
+오후 5:00:57  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 5:00:57  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 5:00:57  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 5:00:57  [Apache] 	Press the Logs button to view error logs and check
+오후 5:00:57  [Apache] 	the Windows Event Viewer for more clues
+오후 5:00:57  [Apache] 	If you need more help, copy and post this
+오후 5:00:57  [Apache] 	entire log window on the forums
+오후 5:00:57  [mysql] 	Status change detected: stopped
+오후 5:00:57  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 5:00:57  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 5:00:57  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 5:00:57  [mysql] 	Press the Logs button to view error logs and check
+오후 5:00:57  [mysql] 	the Windows Event Viewer for more clues
+오후 5:00:57  [mysql] 	If you need more help, copy and post this
+오후 5:00:57  [mysql] 	entire log window on the forums
+오후 5:00:57  [main] 	Deinitializing Modules
+오후 5:00:57  [main] 	Deinitializing Control Panel
+
+오후 7:01:59  [main] 	Initializing Control Panel
+오후 7:01:59  [main] 	Windows Version:  Home  64-bit
+오후 7:01:59  [main] 	XAMPP Version: 8.2.4
+오후 7:01:59  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 7:01:59  [main] 	Running with Administrator rights - good!
+오후 7:01:59  [main] 	XAMPP Installation Directory: "c:\users\becau\desktop\metaverse\apm\"
+오후 7:01:59  [main] 	Checking for prerequisites
+오후 7:02:01  [main] 	All prerequisites found
+오후 7:02:01  [main] 	Initializing Modules
+오후 7:02:01  [mysql] 	XAMPP MySQL is already running on port 3306
+오후 7:02:01  [main] 	The FileZilla module is disabled
+오후 7:02:01  [main] 	The Mercury module is disabled
+오후 7:02:01  [main] 	The Tomcat module is disabled
+오후 7:02:01  [main] 	Starting Check-Timer
+오후 7:02:01  [main] 	Control Panel Ready
+오후 7:02:03  [Apache] 	Attempting to start Apache app...
+오후 7:02:04  [Apache] 	Status change detected: running
+오후 9:33:17  [Apache] 	Attempting to stop Apache (PID: 14712)
+오후 9:33:17  [Apache] 	Attempting to stop Apache (PID: 17580)
+오후 9:33:17  [Apache] 	Status change detected: stopped
+오후 9:33:18  [mysql] 	Attempting to stop MySQL app...
+오후 9:33:19  [mysql] 	Status change detected: stopped
+오후 9:33:45  [main] 	Deinitializing Modules
+오후 9:33:45  [main] 	Deinitializing Control Panel
+
+오후 3:47:51  [main] 	Initializing Control Panel
+오후 3:47:51  [main] 	Windows Version:  Home  64-bit
+오후 3:47:51  [main] 	XAMPP Version: 8.2.4
+오후 3:47:51  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 3:47:51  [main] 	Running with Administrator rights - good!
+오후 3:47:51  [main] 	XAMPP Installation Directory: "c:\users\becau\desktop\metaverse\apm\"
+오후 3:47:51  [main] 	Checking for prerequisites
+오후 3:47:54  [main] 	All prerequisites found
+오후 3:47:54  [main] 	Initializing Modules
+오후 3:47:54  [mysql] 	XAMPP MySQL is already running on port 3306
+오후 3:47:54  [main] 	The FileZilla module is disabled
+오후 3:47:54  [main] 	The Mercury module is disabled
+오후 3:47:54  [main] 	The Tomcat module is disabled
+오후 3:47:54  [main] 	Starting Check-Timer
+오후 3:47:54  [main] 	Control Panel Ready
+오후 3:47:55  [Apache] 	Attempting to start Apache app...
+오후 3:47:56  [Apache] 	Status change detected: running
+오후 5:31:28  [Apache] 	Attempting to stop Apache (PID: 7700)
+오후 5:31:28  [Apache] 	Attempting to stop Apache (PID: 18000)
+오후 5:31:28  [Apache] 	Status change detected: stopped
+오후 5:31:28  [mysql] 	Attempting to stop MySQL app...
+오후 5:31:28  [mysql] 	Status change detected: stopped
+오후 5:31:34  [main] 	Deinitializing Modules
+오후 5:31:34  [main] 	Deinitializing Control Panel
+
+오후 7:03:20  [main] 	Initializing Control Panel
+오후 7:03:20  [main] 	Windows Version:  Home  64-bit
+오후 7:03:20  [main] 	XAMPP Version: 8.2.4
+오후 7:03:20  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 7:03:20  [main] 	Running with Administrator rights - good!
+오후 7:03:20  [main] 	XAMPP Installation Directory: "c:\users\becau\desktop\metaverse\apm\"
+오후 7:03:20  [main] 	Checking for prerequisites
+오후 7:03:23  [main] 	All prerequisites found
+오후 7:03:23  [main] 	Initializing Modules
+오후 7:03:23  [mysql] 	XAMPP MySQL is already running on port 3306
+오후 7:03:23  [main] 	The FileZilla module is disabled
+오후 7:03:23  [main] 	The Mercury module is disabled
+오후 7:03:23  [main] 	The Tomcat module is disabled
+오후 7:03:23  [main] 	Starting Check-Timer
+오후 7:03:23  [main] 	Control Panel Ready
+오후 7:03:25  [Apache] 	Attempting to start Apache app...
+오후 7:03:25  [Apache] 	Status change detected: running
+오후 9:02:13  [Apache] 	Attempting to stop Apache (PID: 7688)
+오후 9:02:13  [Apache] 	Attempting to stop Apache (PID: 8600)
+오후 9:02:14  [Apache] 	Status change detected: stopped
+오후 9:02:14  [mysql] 	Attempting to stop MySQL app...
+오후 9:02:14  [mysql] 	Status change detected: stopped
+오후 9:02:23  [main] 	Deinitializing Modules
+오후 9:02:23  [main] 	Deinitializing Control Panel
+
+오후 11:13:43  [main] 	Initializing Control Panel
+오후 11:13:43  [main] 	Windows Version:  Home  64-bit
+오후 11:13:43  [main] 	XAMPP Version: 8.2.4
+오후 11:13:43  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 11:13:43  [main] 	Running with Administrator rights - good!
+오후 11:13:43  [main] 	XAMPP Installation Directory: "c:\users\becau\desktop\metaverse\apm\"
+오후 11:13:43  [main] 	Checking for prerequisites
+오후 11:13:43  [main] 	All prerequisites found
+오후 11:13:43  [main] 	Initializing Modules
+오후 11:13:43  [mysql] 	XAMPP MySQL is already running on port 3306
+오후 11:13:43  [main] 	The FileZilla module is disabled
+오후 11:13:43  [main] 	The Mercury module is disabled
+오후 11:13:43  [main] 	The Tomcat module is disabled
+오후 11:13:43  [main] 	Starting Check-Timer
+오후 11:13:43  [main] 	Control Panel Ready
+오후 11:13:44  [Apache] 	Attempting to start Apache app...
+오후 11:13:45  [Apache] 	Status change detected: running
+오전 1:55:37  [Apache] 	Attempting to stop Apache (PID: 15976)
+오전 1:55:37  [Apache] 	Attempting to stop Apache (PID: 20892)
+오전 1:55:37  [Apache] 	Status change detected: stopped
+오전 1:55:38  [mysql] 	Attempting to stop MySQL app...
+오전 1:55:38  [mysql] 	Status change detected: stopped
+오전 1:55:49  [main] 	Deinitializing Modules
+오전 1:55:49  [main] 	Deinitializing Control Panel
+
+오후 6:58:22  [main] 	Initializing Control Panel
+오후 6:58:22  [main] 	Windows Version:  Home  64-bit
+오후 6:58:22  [main] 	XAMPP Version: 8.2.4
+오후 6:58:22  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 6:58:22  [main] 	Running with Administrator rights - good!
+오후 6:58:22  [main] 	XAMPP Installation Directory: "c:\users\becau\desktop\metaverse\apm\"
+오후 6:58:22  [main] 	Checking for prerequisites
+오후 6:58:24  [main] 	All prerequisites found
+오후 6:58:24  [main] 	Initializing Modules
+오후 6:58:24  [mysql] 	XAMPP MySQL is already running on port 3306
+오후 6:58:24  [main] 	The FileZilla module is disabled
+오후 6:58:24  [main] 	The Mercury module is disabled
+오후 6:58:24  [main] 	The Tomcat module is disabled
+오후 6:58:24  [main] 	Starting Check-Timer
+오후 6:58:24  [main] 	Control Panel Ready
+오후 6:58:26  [Apache] 	Attempting to start Apache app...
+오후 6:58:26  [Apache] 	Status change detected: running
+오후 9:56:04  [Apache] 	Attempting to stop Apache (PID: 3528)
+오후 9:56:04  [Apache] 	Attempting to stop Apache (PID: 1668)
+오후 9:56:04  [Apache] 	Status change detected: stopped
+오후 9:56:05  [mysql] 	Attempting to stop MySQL app...
+오후 9:56:06  [mysql] 	Status change detected: stopped
+오후 9:56:34  [main] 	Deinitializing Modules
+오후 9:56:34  [main] 	Deinitializing Control Panel
+
+오후 11:05:04  [main] 	Initializing Control Panel
+오후 11:05:04  [main] 	Windows Version:  Home  64-bit
+오후 11:05:04  [main] 	XAMPP Version: 8.2.4
+오후 11:05:04  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 11:05:04  [main] 	Running with Administrator rights - good!
+오후 11:05:04  [main] 	XAMPP Installation Directory: "c:\users\becau\desktop\metaverse\apm\"
+오후 11:05:04  [main] 	Checking for prerequisites
+오후 11:05:06  [main] 	All prerequisites found
+오후 11:05:06  [main] 	Initializing Modules
+오후 11:05:06  [mysql] 	XAMPP MySQL is already running on port 3306
+오후 11:05:06  [main] 	The FileZilla module is disabled
+오후 11:05:06  [main] 	The Mercury module is disabled
+오후 11:05:06  [main] 	The Tomcat module is disabled
+오후 11:05:06  [main] 	Starting Check-Timer
+오후 11:05:06  [main] 	Control Panel Ready
+오후 11:05:08  [Apache] 	Attempting to start Apache app...
+오후 11:05:08  [Apache] 	Status change detected: running
+오후 8:34:37  [Apache] 	Attempting to stop Apache (PID: 7912)
+오후 8:34:37  [Apache] 	Attempting to stop Apache (PID: 6608)
+오후 8:34:37  [Apache] 	Status change detected: stopped
+오후 8:34:38  [mysql] 	Attempting to stop MySQL app...
+오후 8:34:38  [mysql] 	Status change detected: stopped
+오후 8:34:51  [main] 	Deinitializing Modules
+오후 8:34:51  [main] 	Deinitializing Control Panel
+
+오후 1:47:55  [main] 	Initializing Control Panel
+오후 1:47:55  [main] 	Windows Version:  Home  64-bit
+오후 1:47:55  [main] 	XAMPP Version: 8.2.4
+오후 1:47:55  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 1:47:55  [main] 	Running with Administrator rights - good!
+오후 1:47:55  [main] 	XAMPP Installation Directory: "c:\users\becau\desktop\metaverse\apm\"
+오후 1:47:55  [main] 	Checking for prerequisites
+오후 1:47:58  [main] 	All prerequisites found
+오후 1:47:58  [main] 	Initializing Modules
+오후 1:47:58  [mysql] 	XAMPP MySQL is already running on port 3306
+오후 1:47:58  [main] 	The FileZilla module is disabled
+오후 1:47:58  [main] 	The Mercury module is disabled
+오후 1:47:58  [main] 	The Tomcat module is disabled
+오후 1:47:58  [main] 	Starting Check-Timer
+오후 1:47:58  [main] 	Control Panel Ready
+오후 1:48:00  [Apache] 	Attempting to start Apache app...
+오후 1:48:00  [Apache] 	Status change detected: running
+오후 2:58:51  [Apache] 	Attempting to stop Apache (PID: 12368)
+오후 2:58:51  [Apache] 	Attempting to stop Apache (PID: 14228)
+오후 2:58:51  [Apache] 	Status change detected: stopped
+오후 2:58:51  [mysql] 	Attempting to stop MySQL app...
+오후 2:58:52  [mysql] 	Status change detected: stopped
+오후 2:58:59  [main] 	Deinitializing Modules
+오후 2:58:59  [main] 	Deinitializing Control Panel
+
+오후 5:47:15  [main] 	Initializing Control Panel
+오후 5:47:15  [main] 	Windows Version:  Home  64-bit
+오후 5:47:15  [main] 	XAMPP Version: 8.2.4
+오후 5:47:15  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 5:47:15  [main] 	Running with Administrator rights - good!
+오후 5:47:15  [main] 	XAMPP Installation Directory: "c:\users\becau\desktop\metaverse\apm\"
+오후 5:47:15  [main] 	Checking for prerequisites
+오후 5:47:18  [main] 	All prerequisites found
+오후 5:47:18  [main] 	Initializing Modules
+오후 5:47:18  [mysql] 	XAMPP MySQL is already running on port 3306
+오후 5:47:18  [main] 	The FileZilla module is disabled
+오후 5:47:18  [main] 	The Mercury module is disabled
+오후 5:47:18  [main] 	The Tomcat module is disabled
+오후 5:47:18  [main] 	Starting Check-Timer
+오후 5:47:18  [main] 	Control Panel Ready
+오후 5:47:21  [Apache] 	Attempting to start Apache app...
+오후 5:47:21  [Apache] 	Status change detected: running
+오후 10:36:32  [Apache] 	Attempting to stop Apache (PID: 24424)
+오후 10:36:32  [Apache] 	Attempting to stop Apache (PID: 12176)
+오후 10:36:32  [Apache] 	Status change detected: stopped
+오후 10:36:33  [mysql] 	Attempting to stop MySQL app...
+오후 10:36:33  [mysql] 	Status change detected: stopped
+오전 11:00:20  [main] 	Deinitializing Modules
+오전 11:00:20  [main] 	Deinitializing Control Panel
+
+오후 3:10:13  [main] 	Initializing Control Panel
+오후 3:10:13  [main] 	Windows Version:  Home  64-bit
+오후 3:10:13  [main] 	XAMPP Version: 8.2.4
+오후 3:10:13  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 3:10:13  [main] 	Running with Administrator rights - good!
+오후 3:10:13  [main] 	XAMPP Installation Directory: "c:\users\becau\desktop\metaverse\apm\"
+오후 3:10:13  [main] 	Checking for prerequisites
+오후 3:10:15  [main] 	All prerequisites found
+오후 3:10:15  [main] 	Initializing Modules
+오후 3:10:15  [Apache] 	Problem detected!
+오후 3:10:15  [Apache] 	Port 80 in use by "Unable to open process" with PID 8248!
+오후 3:10:15  [Apache] 	Apache WILL NOT start without the configured ports free!
+오후 3:10:15  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+오후 3:10:15  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+오후 3:10:15  [Apache] 	Problem detected!
+오후 3:10:15  [Apache] 	Port 443 in use by "Unable to open process" with PID 8248!
+오후 3:10:15  [Apache] 	Apache WILL NOT start without the configured ports free!
+오후 3:10:15  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+오후 3:10:15  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+오후 3:10:15  [mysql] 	XAMPP MySQL is already running on port 3306
+오후 3:10:15  [main] 	The FileZilla module is disabled
+오후 3:10:15  [main] 	The Mercury module is disabled
+오후 3:10:15  [main] 	The Tomcat module is disabled
+오후 3:10:15  [main] 	Starting Check-Timer
+오후 3:10:15  [main] 	Control Panel Ready
+오후 3:10:18  [Apache] 	Attempting to start Apache app...
+오후 3:10:18  [Apache] 	Status change detected: running
+오후 8:51:04  [Apache] 	Attempting to stop Apache (PID: 9244)
+오후 8:51:04  [Apache] 	Attempting to stop Apache (PID: 25796)
+오후 8:51:04  [Apache] 	Status change detected: stopped
+오후 8:51:05  [mysql] 	Attempting to stop MySQL app...
+오후 8:51:05  [mysql] 	Status change detected: stopped
+오후 8:51:13  [main] 	Deinitializing Modules
+오후 8:51:13  [main] 	Deinitializing Control Panel
+

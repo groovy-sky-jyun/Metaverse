@@ -273,3 +273,437 @@ Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribut
 2023-10-04 16:09:57 0 [Note] Added new Master_info '' to hash table
 2023-10-04 16:09:57 0 [Note] mysql\bin\mysqld.exe: ready for connections.
 Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-10-05  1:42:29 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 19496
+2023-10-05  1:42:29 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-10-05  1:42:29 0 [Note] InnoDB: Uses event mutexes
+2023-10-05  1:42:29 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-10-05  1:42:29 0 [Note] InnoDB: Number of pools: 1
+2023-10-05  1:42:29 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-10-05  1:42:29 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-10-05  1:42:29 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-05  1:42:29 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1127968
+2023-10-05  1:42:30 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-10-05  1:42:30 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-10-05  1:42:30 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-05  1:42:30 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-05  1:42:30 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-10-05  1:42:30 0 [Note] InnoDB: Waiting for purge to start
+2023-10-05  1:42:30 0 [Note] InnoDB: 10.4.28 started; log sequence number 1127977; transaction id 5710
+2023-10-05  1:42:31 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-10-05  1:42:31 0 [Note] InnoDB: Buffer pool(s) load completed at 231005  1:42:31
+2023-10-05  1:42:51 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 21212
+2023-10-05  1:42:51 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-10-05  1:42:51 0 [Note] InnoDB: Uses event mutexes
+2023-10-05  1:42:51 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-10-05  1:42:51 0 [Note] InnoDB: Number of pools: 1
+2023-10-05  1:42:51 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-10-05  1:42:51 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-10-05  1:42:51 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-05  1:42:51 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1127968
+2023-10-05  1:42:52 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-10-05  1:42:53 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-10-05  1:42:53 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-05  1:42:53 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-05  1:42:53 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-10-05  1:42:53 0 [Note] InnoDB: Waiting for purge to start
+2023-10-05  1:42:53 0 [Note] InnoDB: Waiting for purge to start
+2023-10-05  1:42:53 0 [Note] InnoDB: 10.4.28 started; log sequence number 1127977; transaction id 5710
+2023-10-05  1:42:53 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-10-05  1:42:53 0 [Note] InnoDB: Buffer pool(s) load completed at 231005  1:42:53
+2023-10-05  1:42:54 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-05  1:42:54 0 [Note] Server socket created on IP: '::'.
+2023-10-05  1:43:06 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 18664
+2023-10-05  1:43:06 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-10-05  1:43:06 0 [Note] InnoDB: Uses event mutexes
+2023-10-05  1:43:06 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-10-05  1:43:06 0 [Note] InnoDB: Number of pools: 1
+2023-10-05  1:43:06 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-10-05  1:43:06 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-10-05  1:43:06 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-05  1:43:06 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1127968
+2023-10-05  1:43:06 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-10-05  1:43:06 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-10-05  1:43:06 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-05  1:43:06 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-05  1:43:06 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-10-05  1:43:06 0 [Note] InnoDB: Waiting for purge to start
+2023-10-05  1:43:07 0 [Note] InnoDB: Waiting for purge to start
+2023-10-05  1:43:07 0 [Note] InnoDB: 10.4.28 started; log sequence number 1127977; transaction id 5710
+2023-10-05  1:43:07 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-10-05  1:43:07 0 [Note] InnoDB: Buffer pool(s) load completed at 231005  1:43:07
+2023-10-05  1:43:07 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-05  1:43:07 0 [Note] Server socket created on IP: '::'.
+2023-10-05  1:49:19 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 14960
+2023-10-05  1:49:19 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-10-05  1:49:19 0 [Note] InnoDB: Uses event mutexes
+2023-10-05  1:49:19 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-10-05  1:49:19 0 [Note] InnoDB: Number of pools: 1
+2023-10-05  1:49:19 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-10-05  1:49:19 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-10-05  1:49:19 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-05  1:49:19 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1128367
+2023-10-05  1:49:19 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-10-05  1:49:19 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-10-05  1:49:19 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-05  1:49:19 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-05  1:49:19 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-10-05  1:49:19 0 [Note] InnoDB: Waiting for purge to start
+2023-10-05  1:49:19 0 [Note] InnoDB: 10.4.28 started; log sequence number 1128376; transaction id 5717
+2023-10-05  1:49:19 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-10-05  1:49:19 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-05  1:49:19 0 [Note] Server socket created on IP: '::'.
+2023-10-05  1:49:19 0 [Note] InnoDB: Buffer pool(s) load completed at 231005  1:49:19
+2023-10-05  1:49:19 0 [Note] Reading of all Master_info entries succeeded
+2023-10-05  1:49:19 0 [Note] Added new Master_info '' to hash table
+2023-10-05  1:49:19 0 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-10-05 15:21:18 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 5516
+2023-10-05 15:21:18 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-10-05 15:21:18 0 [Note] InnoDB: Uses event mutexes
+2023-10-05 15:21:18 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-10-05 15:21:18 0 [Note] InnoDB: Number of pools: 1
+2023-10-05 15:21:18 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-10-05 15:21:18 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-10-05 15:21:18 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-05 15:21:18 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1128385
+2023-10-05 15:21:19 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-10-05 15:21:19 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-10-05 15:21:19 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-05 15:21:19 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-05 15:21:19 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-10-05 15:21:19 0 [Note] InnoDB: Waiting for purge to start
+2023-10-05 15:21:19 0 [Note] InnoDB: 10.4.28 started; log sequence number 1128394; transaction id 5717
+2023-10-05 15:21:19 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-10-05 15:21:19 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-05 15:21:19 0 [Note] Server socket created on IP: '::'.
+2023-10-05 15:21:19 0 [Note] InnoDB: Buffer pool(s) load completed at 231005 15:21:19
+2023-10-05 15:21:19 0 [Note] Reading of all Master_info entries succeeded
+2023-10-05 15:21:19 0 [Note] Added new Master_info '' to hash table
+2023-10-05 15:21:19 0 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-10-05 19:46:06 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 10364
+2023-10-05 19:46:06 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-10-05 19:46:06 0 [Note] InnoDB: Uses event mutexes
+2023-10-05 19:46:06 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-10-05 19:46:06 0 [Note] InnoDB: Number of pools: 1
+2023-10-05 19:46:06 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-10-05 19:46:06 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-10-05 19:46:06 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-05 19:46:06 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1134722
+2023-10-05 19:46:07 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-10-05 19:46:07 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-10-05 19:46:07 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-05 19:46:07 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-05 19:46:07 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-10-05 19:46:07 0 [Note] InnoDB: Waiting for purge to start
+2023-10-05 19:46:07 0 [Note] InnoDB: 10.4.28 started; log sequence number 1134731; transaction id 5734
+2023-10-05 19:46:07 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-10-05 19:46:07 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-05 19:46:07 0 [Note] InnoDB: Buffer pool(s) load completed at 231005 19:46:07
+2023-10-05 19:46:07 0 [Note] Server socket created on IP: '::'.
+2023-10-05 19:46:08 0 [Note] Reading of all Master_info entries succeeded
+2023-10-05 19:46:08 0 [Note] Added new Master_info '' to hash table
+2023-10-05 19:46:08 0 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-10-06 18:57:41 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 26496
+2023-10-06 18:57:41 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-10-06 18:57:41 0 [Note] InnoDB: Uses event mutexes
+2023-10-06 18:57:41 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-10-06 18:57:41 0 [Note] InnoDB: Number of pools: 1
+2023-10-06 18:57:41 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-10-06 18:57:41 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-10-06 18:57:41 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-06 18:57:41 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1140972
+2023-10-06 18:57:41 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-10-06 18:57:41 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-10-06 18:57:41 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-06 18:57:41 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-06 18:57:41 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-10-06 18:57:41 0 [Note] InnoDB: Waiting for purge to start
+2023-10-06 18:57:41 0 [Note] InnoDB: 10.4.28 started; log sequence number 1140981; transaction id 5751
+2023-10-06 18:57:41 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-10-06 18:57:41 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-06 18:57:41 0 [Note] InnoDB: Buffer pool(s) load completed at 231006 18:57:41
+2023-10-06 18:57:41 0 [Note] Server socket created on IP: '::'.
+2023-10-06 18:57:42 0 [Note] Reading of all Master_info entries succeeded
+2023-10-06 18:57:42 0 [Note] Added new Master_info '' to hash table
+2023-10-06 18:57:42 0 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-10-09 15:44:02 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 14812
+2023-10-09 15:44:02 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-10-09 15:44:02 0 [Note] InnoDB: Uses event mutexes
+2023-10-09 15:44:02 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-10-09 15:44:02 0 [Note] InnoDB: Number of pools: 1
+2023-10-09 15:44:02 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-10-09 15:44:02 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-10-09 15:44:02 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-09 15:44:02 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1140990
+2023-10-09 15:44:02 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-10-09 15:44:02 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-10-09 15:44:02 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-09 15:44:02 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-09 15:44:02 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-10-09 15:44:02 0 [Note] InnoDB: Waiting for purge to start
+2023-10-09 15:44:02 0 [Note] InnoDB: 10.4.28 started; log sequence number 1140999; transaction id 5751
+2023-10-09 15:44:02 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-10-09 15:44:02 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-09 15:44:02 0 [Note] InnoDB: Buffer pool(s) load completed at 231009 15:44:02
+2023-10-09 15:44:02 0 [Note] Server socket created on IP: '::'.
+2023-10-09 15:44:03 0 [Note] Reading of all Master_info entries succeeded
+2023-10-09 15:44:03 0 [Note] Added new Master_info '' to hash table
+2023-10-09 15:44:03 0 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-10-10 19:01:51 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 7688
+2023-10-10 19:01:51 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-10-10 19:01:51 0 [Note] InnoDB: Uses event mutexes
+2023-10-10 19:01:51 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-10-10 19:01:51 0 [Note] InnoDB: Number of pools: 1
+2023-10-10 19:01:51 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-10-10 19:01:51 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-10-10 19:01:51 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-10 19:01:51 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1180501
+2023-10-10 19:01:52 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-10-10 19:01:52 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-10-10 19:01:52 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-10 19:01:52 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-10 19:01:52 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-10-10 19:01:52 0 [Note] InnoDB: Waiting for purge to start
+2023-10-10 19:01:52 0 [Note] InnoDB: 10.4.28 started; log sequence number 1180510; transaction id 5774
+2023-10-10 19:01:52 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-10-10 19:01:52 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-10 19:01:52 0 [Note] InnoDB: Buffer pool(s) load completed at 231010 19:01:52
+2023-10-10 19:01:52 0 [Note] Server socket created on IP: '::'.
+2023-10-10 19:01:53 0 [Note] Reading of all Master_info entries succeeded
+2023-10-10 19:01:53 0 [Note] Added new Master_info '' to hash table
+2023-10-10 19:01:53 0 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-10-10 19:02:12 13 [Note] Detected table cache mutex contention at instance 1: 34% waits. Additional table cache instance activated. Number of instances after activation: 2.
+2202032-310--111 01-5:1417 :1450: 407 :[4N0o te0]  [SNtoatret]i nSgt aMarrtiiaDnB g1 0Ma.ria4D.B2 81-0M.a4r.i2a8D-BM asorurce iraeDvBi sions oucr8cfe2 ree9vai5sci0oanc 5c980f52fe298ab5c0ac055900b75dff258ab90f5f0db971d4fb5a79fef7d 9a1s4b 7ep7r oasc espsr o2c4e5s8s0 
+1448
+2202032-31-01-0-1111  1155::4477::4411  00  [[NNoottee] I]n nIonDnoBD:B :M Muutteexexse asn da rnwd_l orcwk_sl oucsek sWi nudsoew sW iinndtoewrsl oinctkeedr lfoucnctions
+ked functions
+2023-10-112 015:2437:-4110 -01 1[ N1o5t:e4]7 :InnoDB: Uses e4v1en t0  m[uNtoetxee]s 
+InnoDB: Uses event mutexes
+2023-10-21012 31-51:04-71:14 11 50: 4[7N:o4t1e ]0  I[nNnootDeB]:  ICnonmopDrBe:s sCeodm ptraebslseesd  utsaeb lzelsi bu s1e. 2z.l1i2b
+ 1.2.12
+22002233--1100--1111  1155::4477::4411  00  [[NNoottee]]  InInnonDoBD:B :N uNmubmebre ro fo fp opoolosl:s :1 
+1
+22002233--1100--1111  1155::4477::4411  00  [[NNotoet]e ]I nInnonDoBD: Using SSE2 crc32 instructions
+B: Using SSE2 crc32 instructions
+2023-10-11 15:47:41 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-10-11 15:47:41 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size 2= 01263M-
+10-11 15:47:41 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-11 15:47:41 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-11 15:47:41 0 [ERROR] InnoDB: Operating system error number 32 in a file operation.
+2023-10-11 15:47:41 0 [ERROR] InnoDB: The error means that another program is using InnoDB's files. This might be a backup or antivirus software or another instance of MySQL. Please close it to get rid of this error.
+2023-10-11 15:47:41 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1249975
+2023-10-11 15:47:41 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-10-11 15:47:41 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-10-11 15:47:41 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-11 15:47:41 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-11 15:47:41 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-10-11 15:47:41 0 [Note] InnoDB: Waiting for purge to start
+2023-10-11 15:47:41 0 [Note] InnoDB: 10.4.28 started; log sequence number 1249984; transaction id 5806
+2023-10-11 15:47:41 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-10-11 15:47:41 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-11 15:47:41 0 [Note] InnoDB: Buffer pool(s) load completed at 231011 15:47:41
+2023-10-11 15:47:41 0 [Note] Server socket created on IP: '::'.
+2023-10-11 15:47:42 0 [Note] Reading of all Master_info entries succeeded
+2023-10-11 15:47:42 0 [Note] Added new Master_info '' to hash table
+2023-10-11 15:47:42 0 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-10-11 19:03:07 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 4136
+2023-10-11 19:03:07 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-10-11 19:03:07 0 [Note] InnoDB: Uses event mutexes
+2023-10-11 19:03:07 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-10-11 19:03:07 0 [Note] InnoDB: Number of pools: 1
+2023-10-11 19:03:07 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-10-11 19:03:07 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-10-11 19:03:07 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-11 19:03:07 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1259052
+2023-10-11 19:03:08 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-10-11 19:03:08 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-10-11 19:03:08 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-11 19:03:08 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-11 19:03:08 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-10-11 19:03:08 0 [Note] InnoDB: Waiting for purge to start
+2023-10-11 19:03:08 0 [Note] InnoDB: 10.4.28 started; log sequence number 1259061; transaction id 5818
+2023-10-11 19:03:08 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-11 19:03:08 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-10-11 19:03:08 0 [Note] InnoDB: Buffer pool(s) load completed at 231011 19:03:08
+2023-10-11 19:03:08 0 [Note] Server socket created on IP: '::'.
+2023-10-11 19:03:09 0 [Note] Reading of all Master_info entries succeeded
+2023-10-11 19:03:09 0 [Note] Added new Master_info '' to hash table
+2023-10-11 19:03:09 0 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-10-11 23:13:36 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 19432
+2023-10-11 23:13:37 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-10-11 23:13:37 0 [Note] InnoDB: Uses event mutexes
+2023-10-11 23:13:37 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-10-11 23:13:37 0 [Note] InnoDB: Number of pools: 1
+2023-10-11 23:13:37 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-10-11 23:13:37 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-10-11 23:13:37 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-11 23:13:37 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1260194
+2023-10-11 23:13:37 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-10-11 23:13:37 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-10-11 23:13:37 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-11 23:13:37 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-11 23:13:37 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-10-11 23:13:37 0 [Note] InnoDB: Waiting for purge to start
+2023-10-11 23:13:37 0 [Note] InnoDB: 10.4.28 started; log sequence number 1260203; transaction id 5828
+2023-10-11 23:13:37 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-10-11 23:13:37 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-11 23:13:37 0 [Note] InnoDB: Buffer pool(s) load completed at 231011 23:13:37
+2023-10-11 23:13:37 0 [Note] Server socket created on IP: '::'.
+2023-10-11 23:13:37 0 [Note] Reading of all Master_info entries succeeded
+2023-10-11 23:13:37 0 [Note] Added new Master_info '' to hash table
+2023-10-11 23:13:37 0 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-10-11 23:15:48 10 [Note] Detected table cache mutex contention at instance 1: 30% waits. Additional table cache instance activated. Number of instances after activation: 2.
+2023-10-11 23:15:48 8 [Note] Detected table cache mutex contention at instance 1: 30% waits. Additional table cache instance activated. Number of instances after activation: 3.
+2023-10-12 18:58:10 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 16568
+2023-10-12 18:58:10 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-10-12 18:58:10 0 [Note] InnoDB: Uses event mutexes
+2023-10-12 18:58:10 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-10-12 18:58:10 0 [Note] InnoDB: Number of pools: 1
+2023-10-12 18:58:10 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-10-12 18:58:10 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-10-12 18:58:11 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-12 18:58:11 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1347749
+2023-10-12 18:58:11 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-10-12 18:58:11 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-10-12 18:58:11 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-12 18:58:11 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-12 18:58:11 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-10-12 18:58:11 0 [Note] InnoDB: Waiting for purge to start
+2023-10-12 18:58:11 0 [Note] InnoDB: 10.4.28 started; log sequence number 1347758; transaction id 5966
+2023-10-12 18:58:11 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-10-12 18:58:11 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-12 18:58:11 0 [Note] InnoDB: Buffer pool(s) load completed at 231012 18:58:11
+2023-10-12 18:58:11 0 [Note] Server socket created on IP: '::'.
+2023-10-12 18:58:12 0 [Note] Reading of all Master_info entries succeeded
+2023-10-12 18:58:12 0 [Note] Added new Master_info '' to hash table
+2023-10-12 18:58:12 0 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-10-12 23:04:54 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 21556
+2023-10-12 23:04:54 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-10-12 23:04:54 0 [Note] InnoDB: Uses event mutexes
+2023-10-12 23:04:54 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-10-12 23:04:54 0 [Note] InnoDB: Number of pools: 1
+2023-10-12 23:04:54 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-10-12 23:04:54 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-10-12 23:04:54 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-12 23:04:54 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1348549
+2023-10-12 23:04:55 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-10-12 23:04:55 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-10-12 23:04:55 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-12 23:04:55 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-12 23:04:55 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-10-12 23:04:55 0 [Note] InnoDB: Waiting for purge to start
+2023-10-12 23:04:55 0 [Note] InnoDB: 10.4.28 started; log sequence number 1348558; transaction id 5977
+2023-10-12 23:04:55 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-10-12 23:04:55 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-12 23:04:55 0 [Note] InnoDB: Buffer pool(s) load completed at 231012 23:04:55
+2023-10-12 23:04:55 0 [Note] Server socket created on IP: '::'.
+2023-10-12 23:04:55 0 [Note] Reading of all Master_info entries succeeded
+2023-10-12 23:04:55 0 [Note] Added new Master_info '' to hash table
+2023-10-12 23:04:55 0 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-10-14 13:47:42 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 7592
+2023-10-14 13:47:42 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-10-14 13:47:42 0 [Note] InnoDB: Uses event mutexes
+2023-10-14 13:47:42 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-10-14 13:47:42 0 [Note] InnoDB: Number of pools: 1
+2023-10-14 13:47:42 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-10-14 13:47:42 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-10-14 13:47:42 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-14 13:47:42 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1349362
+2023-10-14 13:47:43 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-10-14 13:47:43 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-10-14 13:47:43 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-14 13:47:43 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-14 13:47:43 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-10-14 13:47:43 0 [Note] InnoDB: Waiting for purge to start
+2023-10-14 13:47:43 0 [Note] InnoDB: 10.4.28 started; log sequence number 1349371; transaction id 5989
+2023-10-14 13:47:43 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-10-14 13:47:43 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-14 13:47:43 0 [Note] InnoDB: Buffer pool(s) load completed at 231014 13:47:43
+2023-10-14 13:47:43 0 [Note] Server socket created on IP: '::'.
+2023-10-14 13:47:44 0 [Note] Reading of all Master_info entries succeeded
+2023-10-14 13:47:44 0 [Note] Added new Master_info '' to hash table
+2023-10-14 13:47:44 0 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-10-14 17:47:06 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 9632
+2023-10-14 17:47:06 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-10-14 17:47:06 0 [Note] InnoDB: Uses event mutexes
+2023-10-14 17:47:06 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-10-14 17:47:06 0 [Note] InnoDB: Number of pools: 1
+2023-10-14 17:47:06 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-10-14 17:47:06 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-10-14 17:47:06 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-14 17:47:06 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1350046
+2023-10-14 17:47:07 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-10-14 17:47:07 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-10-14 17:47:07 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-14 17:47:07 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-14 17:47:07 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-10-14 17:47:07 0 [Note] InnoDB: Waiting for purge to start
+2023-10-14 17:47:07 0 [Note] InnoDB: 10.4.28 started; log sequence number 1350055; transaction id 5999
+2023-10-14 17:47:07 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-10-14 17:47:07 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-14 17:47:07 0 [Note] InnoDB: Buffer pool(s) load completed at 231014 17:47:07
+2023-10-14 17:47:07 0 [Note] Server socket created on IP: '::'.
+2023-10-14 17:47:07 0 [Note] Reading of all Master_info entries succeeded
+2023-10-14 17:47:07 0 [Note] Added new Master_info '' to hash table
+2023-10-14 17:47:07 0 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-10-22 15:10:08 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 26876
+2023-10-22 15:10:08 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-10-22 15:10:08 0 [Note] InnoDB: Uses event mutexes
+2023-10-22 15:10:08 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-10-22 15:10:08 0 [Note] InnoDB: Number of pools: 1
+2023-10-22 15:10:08 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-10-22 15:10:08 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-10-22 15:10:08 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-22 15:10:08 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1524052
+2023-10-22 15:10:08 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-10-22 15:10:08 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-10-22 15:10:08 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-22 15:10:08 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-22 15:10:08 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-10-22 15:10:08 0 [Note] InnoDB: Waiting for purge to start
+2023-10-22 15:10:08 0 [Note] InnoDB: 10.4.28 started; log sequence number 1524061; transaction id 24451
+2023-10-22 15:10:08 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-10-22 15:10:08 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-22 15:10:08 0 [Note] InnoDB: Buffer pool(s) load completed at 231022 15:10:08
+2023-10-22 15:10:08 0 [Note] Server socket created on IP: '::'.
+2023-10-22 15:10:09 0 [Note] Reading of all Master_info entries succeeded
+2023-10-22 15:10:09 0 [Note] Added new Master_info '' to hash table
+2023-10-22 15:10:09 0 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-10-22 15:15:06 10 [Note] Detected table cache mutex contention at instance 1: 31% waits. Additional table cache instance activated. Number of instances after activation: 2.
+2023-10-23 23:24:25 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 17156
+2023-10-23 23:24:25 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-10-23 23:24:25 0 [Note] InnoDB: Uses event mutexes
+2023-10-23 23:24:25 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-10-23 23:24:25 0 [Note] InnoDB: Number of pools: 1
+2023-10-23 23:24:25 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-10-23 23:24:25 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-10-23 23:24:25 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-23 23:24:25 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1524070
+2023-10-23 23:24:26 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-10-23 23:24:26 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-10-23 23:24:26 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-23 23:24:26 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-23 23:24:26 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-10-23 23:24:26 0 [Note] InnoDB: Waiting for purge to start
+2023-10-23 23:24:26 0 [Note] InnoDB: 10.4.28 started; log sequence number 1524079; transaction id 24451
+2023-10-23 23:24:26 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-10-23 23:24:26 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-23 23:24:26 0 [Note] InnoDB: Buffer pool(s) load completed at 231023 23:24:26
+2023-10-23 23:24:26 0 [Note] Server socket created on IP: '::'.
+2023-10-23 23:24:27 0 [Note] Reading of all Master_info entries succeeded
+2023-10-23 23:24:27 0 [Note] Added new Master_info '' to hash table
+2023-10-23 23:24:27 0 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
