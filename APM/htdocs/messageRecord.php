@@ -10,7 +10,7 @@
 
 	//db연결
 	$conn = new mysqli($servername, $server_username, $server_password, $dbname);
-	$timestamp = strtotime("Now");
+
 
 	if(!$conn)
 	{
@@ -23,15 +23,16 @@
 		
 	if(mysqli_num_rows($record_result)>0){
 		while($row = mysqli_fetch_assoc($record_result)){
-			echo $row['sender_id'].",".$row['message_txt'].",".$row['message_time'].",".$row['message_order'].",".$row['read_check'].'/';
+			$update_sql = "UPDATE messagerecord SET read_check=1 WHERE message_order = '".$row['message_order']."' AND list_number = '".$number."'";
+			$update_result = mysqli_query($conn, $update_sql);	
+			if($update_result!=1){
+				echo "fail";
+			}
+			echo $row['sender_id'].",".$row['message_txt'].",".$row['message_time'].",".$row['message_order'].",".$row['read_check']."/";
 		}
 	}
 	else echo "fail";
 
-	$update_sql = "UPDATE messagerecord SET read_check=1 WHERE list_number = '".$number."' ";
-	$update_result = mysqli_query($conn, $update_sql);	
-	if(mysqli_fetch_assoc($update_result)!=1){
-		echo "fail";
-	}
+	
 		
 ?>
