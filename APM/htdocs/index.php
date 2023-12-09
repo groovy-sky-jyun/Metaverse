@@ -9,4 +9,4 @@
 	header('Location: '.$uri.'/phpMyAdmin/');
 	exit;
 ?>
-Something is wrong with the XAMPP installation :-(
+
