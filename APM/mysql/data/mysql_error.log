@@ -117,3 +117,27 @@ Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribut
 2023-12-08 16:16:25 0 [Note] Added new Master_info '' to hash table
 2023-12-08 16:16:25 0 [Note] mysql\bin\mysqld.exe: ready for connections.
 Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-12-12 17:43:57 0 [Note] Starting MariaDB 10.4.28-MariaDB source revision c8f2e9a5c0ac5905f28b050b7df5a9ffd914b7e7 as process 21408
+2023-12-12 17:43:57 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-12-12 17:43:57 0 [Note] InnoDB: Uses event mutexes
+2023-12-12 17:43:57 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-12-12 17:43:57 0 [Note] InnoDB: Number of pools: 1
+2023-12-12 17:43:57 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-12-12 17:43:57 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-12-12 17:43:57 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-12-12 17:43:57 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1715475
+2023-12-12 17:43:59 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-12-12 17:43:59 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-12-12 17:43:59 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-12-12 17:43:59 0 [Note] InnoDB: Setting file 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-12-12 17:43:59 0 [Note] InnoDB: File 'C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ibtmp1' size is now 12 MB.
+2023-12-12 17:43:59 0 [Note] InnoDB: Waiting for purge to start
+2023-12-12 17:43:59 0 [Note] InnoDB: 10.4.28 started; log sequence number 1715484; transaction id 90038
+2023-12-12 17:43:59 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-12-12 17:43:59 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\becau\Desktop\Metaverse\APM\mysql\data\ib_buffer_pool
+2023-12-12 17:44:00 0 [Note] InnoDB: Buffer pool(s) load completed at 231212 17:44:00
+2023-12-12 17:44:00 0 [Note] Server socket created on IP: '::'.
+2023-12-12 17:44:02 0 [Note] Reading of all Master_info entries succeeded
+2023-12-12 17:44:02 0 [Note] Added new Master_info '' to hash table
+2023-12-12 17:44:02 0 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.28-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
