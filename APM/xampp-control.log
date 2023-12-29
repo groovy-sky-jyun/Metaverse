@@ -73,3 +73,78 @@
 오전 4:20:52  [main] 	Deinitializing Modules
 오전 4:20:52  [main] 	Deinitializing Control Panel
 
+오후 5:44:12  [main] 	Initializing Control Panel
+오후 5:44:12  [main] 	Windows Version:  Home  64-bit
+오후 5:44:12  [main] 	XAMPP Version: 8.2.4
+오후 5:44:12  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 5:44:12  [main] 	Running with Administrator rights - good!
+오후 5:44:12  [main] 	XAMPP Installation Directory: "c:\users\becau\desktop\metaverse\apm\"
+오후 5:44:12  [main] 	Checking for prerequisites
+오후 5:44:16  [main] 	All prerequisites found
+오후 5:44:16  [main] 	Initializing Modules
+오후 5:44:16  [Apache] 	XAMPP Apache is already running on port 80
+오후 5:44:16  [Apache] 	XAMPP Apache is already running on port 443
+오후 5:44:16  [mysql] 	XAMPP MySQL is already running on port 3306
+오후 5:44:16  [main] 	The FileZilla module is disabled
+오후 5:44:16  [main] 	The Mercury module is disabled
+오후 5:44:16  [main] 	The Tomcat module is disabled
+오후 5:44:16  [main] 	Starting Check-Timer
+오후 5:44:16  [main] 	Control Panel Ready
+오후 6:05:19  [Apache] 	Attempting to stop Apache (PID: 9084)
+오후 6:05:19  [Apache] 	Attempting to stop Apache (PID: 3424)
+오후 6:05:20  [Apache] 	Status change detected: stopped
+오후 6:05:20  [mysql] 	Attempting to stop MySQL app...
+오후 6:05:20  [mysql] 	Status change detected: stopped
+오후 10:45:15  [main] 	Deinitializing Modules
+오후 10:45:15  [main] 	Deinitializing Control Panel
+
+오전 3:29:41  [main] 	Initializing Control Panel
+오전 3:29:41  [main] 	Windows Version:  Home  64-bit
+오전 3:29:41  [main] 	XAMPP Version: 8.2.4
+오전 3:29:41  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오전 3:29:41  [main] 	Running with Administrator rights - good!
+오전 3:29:41  [main] 	XAMPP Installation Directory: "c:\users\becau\desktop\metaverse\apm\"
+오전 3:29:41  [main] 	Checking for prerequisites
+오전 3:29:41  [main] 	All prerequisites found
+오전 3:29:41  [main] 	Initializing Modules
+오전 3:29:42  [Apache] 	XAMPP Apache is already running on port 80
+오전 3:29:42  [Apache] 	XAMPP Apache is already running on port 443
+오전 3:29:42  [mysql] 	XAMPP MySQL is already running on port 3306
+오전 3:29:42  [main] 	The FileZilla module is disabled
+오전 3:29:42  [main] 	The Mercury module is disabled
+오전 3:29:42  [main] 	The Tomcat module is disabled
+오전 3:29:42  [main] 	Starting Check-Timer
+오전 3:29:42  [main] 	Control Panel Ready
+오전 4:16:43  [Apache] 	Attempting to stop Apache (PID: 7108)
+오전 4:16:43  [Apache] 	Attempting to stop Apache (PID: 6812)
+오전 4:16:44  [Apache] 	Status change detected: stopped
+오전 4:16:44  [mysql] 	Attempting to stop MySQL app...
+오전 4:16:44  [mysql] 	Status change detected: stopped
+오전 4:16:55  [main] 	Deinitializing Modules
+오전 4:16:55  [main] 	Deinitializing Control Panel
+
+오후 4:32:16  [main] 	Initializing Control Panel
+오후 4:32:16  [main] 	Windows Version:  Home  64-bit
+오후 4:32:16  [main] 	XAMPP Version: 8.2.4
+오후 4:32:16  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 4:32:16  [main] 	Running with Administrator rights - good!
+오후 4:32:16  [main] 	XAMPP Installation Directory: "c:\users\becau\desktop\metaverse\apm\"
+오후 4:32:16  [main] 	Checking for prerequisites
+오후 4:32:18  [main] 	All prerequisites found
+오후 4:32:18  [main] 	Initializing Modules
+오후 4:32:18  [Apache] 	XAMPP Apache is already running on port 80
+오후 4:32:18  [Apache] 	XAMPP Apache is already running on port 443
+오후 4:32:18  [mysql] 	XAMPP MySQL is already running on port 3306
+오후 4:32:18  [main] 	The FileZilla module is disabled
+오후 4:32:18  [main] 	The Mercury module is disabled
+오후 4:32:18  [main] 	The Tomcat module is disabled
+오후 4:32:18  [main] 	Starting Check-Timer
+오후 4:32:18  [main] 	Control Panel Ready
+오후 11:24:20  [Apache] 	Attempting to stop Apache (PID: 7176)
+오후 11:24:20  [Apache] 	Attempting to stop Apache (PID: 12732)
+오후 11:24:20  [Apache] 	Status change detected: stopped
+오후 11:24:21  [mysql] 	Attempting to stop MySQL app...
+오후 11:24:21  [mysql] 	Status change detected: stopped
+오전 12:36:26  [main] 	Deinitializing Modules
+오전 12:36:26  [main] 	Deinitializing Control Panel
+
