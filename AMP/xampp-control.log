@@ -1,0 +1,343 @@
+오후 4:14:18  [main] 	Initializing Control Panel
+오후 4:14:18  [main] 	Windows Version:  Enterprise  64-bit
+오후 4:14:18  [main] 	XAMPP Version: 8.2.12
+오후 4:14:18  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 4:14:18  [main] 	You are not running with administrator rights! This will work for
+오후 4:14:18  [main] 	most application stuff but whenever you do something with services
+오후 4:14:18  [main] 	there will be a security dialogue or things will break! So think 
+오후 4:14:18  [main] 	about running this application with administrator rights!
+오후 4:14:18  [main] 	XAMPP Installation Directory: "d:\amp\"
+오후 4:14:18  [main] 	Checking for prerequisites
+오후 4:14:19  [main] 	All prerequisites found
+오후 4:14:19  [main] 	Initializing Modules
+오후 4:14:19  [mysql] 	Problem detected!
+오후 4:14:19  [mysql] 	Port 3306 in use by "Unable to open process"!
+오후 4:14:19  [mysql] 	MySQL WILL NOT start without the configured ports free!
+오후 4:14:19  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+오후 4:14:19  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+오후 4:14:19  [main] 	The FileZilla module is disabled
+오후 4:14:19  [main] 	The Mercury module is disabled
+오후 4:14:19  [main] 	The Tomcat module is disabled
+오후 4:14:19  [main] 	Starting Check-Timer
+오후 4:14:19  [main] 	Control Panel Ready
+오후 4:15:40  [Apache] 	Attempting to start Apache app...
+오후 4:15:41  [Apache] 	Status change detected: running
+오후 4:16:18  [Apache] 	Attempting to stop Apache (PID: 33412)
+오후 4:16:18  [Apache] 	Attempting to stop Apache (PID: 24136)
+오후 4:16:19  [Apache] 	Status change detected: stopped
+오후 4:16:49  [Apache] 	Attempting to start Apache app...
+오후 4:16:49  [Apache] 	Status change detected: running
+오후 4:29:27  [Apache] 	Attempting to stop Apache (PID: 32980)
+오후 4:29:27  [Apache] 	Attempting to stop Apache (PID: 20220)
+오후 4:29:28  [Apache] 	Status change detected: stopped
+오후 4:49:30  [Apache] 	Attempting to start Apache app...
+오후 4:49:31  [Apache] 	Status change detected: running
+오후 4:52:20  [Apache] 	Attempting to stop Apache (PID: 9796)
+오후 4:52:20  [Apache] 	Attempting to stop Apache (PID: 2104)
+오후 4:52:20  [Apache] 	Status change detected: stopped
+오후 4:53:12  [Apache] 	Attempting to start Apache app...
+오후 4:53:12  [Apache] 	Status change detected: running
+오후 4:53:12  [mysql] 	Problem detected!
+오후 4:53:12  [mysql] 	Port 3306 in use by "Unable to open process"!
+오후 4:53:12  [mysql] 	MySQL WILL NOT start without the configured ports free!
+오후 4:53:12  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+오후 4:53:12  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+오후 4:53:12  [mysql] 	Attempting to start MySQL app...
+오후 4:53:13  [mysql] 	Status change detected: running
+오후 4:53:15  [mysql] 	Status change detected: stopped
+오후 4:53:15  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 4:53:15  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 4:53:15  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 4:53:15  [mysql] 	Press the Logs button to view error logs and check
+오후 4:53:15  [mysql] 	the Windows Event Viewer for more clues
+오후 4:53:15  [mysql] 	If you need more help, copy and post this
+오후 4:53:15  [mysql] 	entire log window on the forums
+오후 4:54:06  [Apache] 	Attempting to stop Apache (PID: 32444)
+오후 4:54:06  [Apache] 	Attempting to stop Apache (PID: 34644)
+오후 4:54:06  [Apache] 	Status change detected: stopped
+오후 4:58:46  [mysql] 	Problem detected!
+오후 4:58:46  [mysql] 	Port 3306 in use by "Unable to open process"!
+오후 4:58:46  [mysql] 	MySQL WILL NOT start without the configured ports free!
+오후 4:58:46  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+오후 4:58:46  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+오후 4:58:46  [mysql] 	Attempting to start MySQL app...
+오후 4:58:46  [mysql] 	Status change detected: running
+오후 4:58:48  [mysql] 	Status change detected: stopped
+오후 4:58:48  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 4:58:48  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 4:58:48  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 4:58:48  [mysql] 	Press the Logs button to view error logs and check
+오후 4:58:48  [mysql] 	the Windows Event Viewer for more clues
+오후 4:58:48  [mysql] 	If you need more help, copy and post this
+오후 4:58:48  [mysql] 	entire log window on the forums
+오후 5:02:47  [mysql] 	Problem detected!
+오후 5:02:47  [mysql] 	Port 3306 in use by "Unable to open process"!
+오후 5:02:47  [mysql] 	MySQL WILL NOT start without the configured ports free!
+오후 5:02:47  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+오후 5:02:47  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+오후 5:02:47  [mysql] 	Attempting to start MySQL app...
+오후 5:02:47  [mysql] 	Status change detected: running
+오후 5:02:49  [mysql] 	Status change detected: stopped
+오후 5:02:49  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 5:02:49  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 5:02:49  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 5:02:49  [mysql] 	Press the Logs button to view error logs and check
+오후 5:02:49  [mysql] 	the Windows Event Viewer for more clues
+오후 5:02:49  [mysql] 	If you need more help, copy and post this
+오후 5:02:49  [mysql] 	entire log window on the forums
+오후 5:02:58  [mysql] 	Problem detected!
+오후 5:02:58  [mysql] 	Port 3306 in use by "Unable to open process"!
+오후 5:02:58  [mysql] 	MySQL WILL NOT start without the configured ports free!
+오후 5:02:58  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+오후 5:02:58  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+오후 5:02:58  [mysql] 	Attempting to start MySQL app...
+오후 5:02:58  [mysql] 	Status change detected: running
+오후 5:02:59  [mysql] 	Status change detected: stopped
+오후 5:02:59  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 5:02:59  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 5:02:59  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 5:03:00  [mysql] 	Press the Logs button to view error logs and check
+오후 5:03:00  [mysql] 	the Windows Event Viewer for more clues
+오후 5:03:00  [mysql] 	If you need more help, copy and post this
+오후 5:03:00  [mysql] 	entire log window on the forums
+오후 5:04:29  [mysql] 	Attempting to start MySQL app...
+오후 5:04:29  [mysql] 	Status change detected: running
+오후 5:04:31  [mysql] 	Status change detected: stopped
+오후 5:04:31  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 5:04:31  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 5:04:31  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 5:04:31  [mysql] 	Press the Logs button to view error logs and check
+오후 5:04:31  [mysql] 	the Windows Event Viewer for more clues
+오후 5:04:31  [mysql] 	If you need more help, copy and post this
+오후 5:04:31  [mysql] 	entire log window on the forums
+오후 5:07:11  [mysql] 	Attempting to start MySQL app...
+오후 5:07:11  [mysql] 	Status change detected: running
+오후 5:07:12  [mysql] 	Status change detected: stopped
+오후 5:07:12  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 5:07:12  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 5:07:13  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 5:07:13  [mysql] 	Press the Logs button to view error logs and check
+오후 5:07:13  [mysql] 	the Windows Event Viewer for more clues
+오후 5:07:13  [mysql] 	If you need more help, copy and post this
+오후 5:07:13  [mysql] 	entire log window on the forums
+오후 5:21:33  [Apache] 	Status change detected: running
+오후 5:21:33  [mysql] 	Status change detected: running
+오후 5:21:43  [mysql] 	Status change detected: stopped
+오후 5:21:43  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 5:21:43  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 5:21:43  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 5:21:43  [mysql] 	Press the Logs button to view error logs and check
+오후 5:21:43  [mysql] 	the Windows Event Viewer for more clues
+오후 5:21:43  [mysql] 	If you need more help, copy and post this
+오후 5:21:43  [mysql] 	entire log window on the forums
+오후 5:21:45  [Apache] 	Status change detected: stopped
+오후 5:30:07  [mysql] 	Status change detected: running
+오후 5:30:19  [mysql] 	Status change detected: stopped
+오후 5:30:19  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 5:30:19  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 5:30:19  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 5:30:19  [mysql] 	Press the Logs button to view error logs and check
+오후 5:30:19  [mysql] 	the Windows Event Viewer for more clues
+오후 5:30:19  [mysql] 	If you need more help, copy and post this
+오후 5:30:19  [mysql] 	entire log window on the forums
+오후 5:30:34  [mysql] 	Status change detected: running
+오후 5:30:47  [Apache] 	Status change detected: running
+오후 5:30:54  [Apache] 	Status change detected: stopped
+오후 5:30:55  [mysql] 	Status change detected: stopped
+오후 5:30:55  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 5:30:55  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 5:30:55  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 5:30:55  [mysql] 	Press the Logs button to view error logs and check
+오후 5:30:55  [mysql] 	the Windows Event Viewer for more clues
+오후 5:30:55  [mysql] 	If you need more help, copy and post this
+오후 5:30:55  [mysql] 	entire log window on the forums
+오후 5:37:18  [main] 	Deinitializing Modules
+오후 5:37:18  [main] 	Deinitializing Control Panel
+
+오후 8:58:59  [main] 	Initializing Control Panel
+오후 8:58:59  [main] 	Windows Version:  Enterprise  64-bit
+오후 8:58:59  [main] 	XAMPP Version: 8.2.12
+오후 8:58:59  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 8:58:59  [main] 	Running with Administrator rights - good!
+오후 8:58:59  [main] 	XAMPP Installation Directory: "d:\amp\"
+오후 8:58:59  [main] 	Checking for prerequisites
+오후 8:58:59  [main] 	All prerequisites found
+오후 8:58:59  [main] 	Initializing Modules
+오후 8:58:59  [Apache] 	XAMPP Apache is already running on port 80
+오후 8:58:59  [Apache] 	XAMPP Apache is already running on port 443
+오후 8:58:59  [main] 	The FileZilla module is disabled
+오후 8:58:59  [main] 	The Mercury module is disabled
+오후 8:58:59  [main] 	The Tomcat module is disabled
+오후 8:58:59  [main] 	Starting Check-Timer
+오후 8:58:59  [main] 	Control Panel Ready
+오후 8:59:14  [mysql] 	Attempting to start MySQL app...
+오후 8:59:14  [mysql] 	Status change detected: running
+오후 8:59:15  [mysql] 	Status change detected: stopped
+오후 8:59:15  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 8:59:15  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 8:59:15  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:59:15  [mysql] 	Press the Logs button to view error logs and check
+오후 8:59:15  [mysql] 	the Windows Event Viewer for more clues
+오후 8:59:15  [mysql] 	If you need more help, copy and post this
+오후 8:59:15  [mysql] 	entire log window on the forums
+오후 9:00:27  [Apache] 	Attempting to stop Apache (PID: 34420)
+오후 9:00:27  [Apache] 	Attempting to stop Apache (PID: 23940)
+오후 9:00:27  [Apache] 	Status change detected: stopped
+오후 9:00:29  [mysql] 	Attempting to start MySQL app...
+오후 9:00:29  [mysql] 	Status change detected: running
+오후 9:00:35  [Apache] 	Attempting to start Apache app...
+오후 9:00:35  [Apache] 	Status change detected: running
+오후 9:07:05  [Apache] 	Attempting to stop Apache (PID: 9752)
+오후 9:07:05  [Apache] 	Attempting to stop Apache (PID: 15932)
+오후 9:07:06  [Apache] 	Status change detected: stopped
+오후 9:07:06  [mysql] 	Attempting to stop MySQL app...
+오후 9:07:06  [mysql] 	Status change detected: stopped
+오후 9:09:34  [Apache] 	Attempting to start Apache app...
+오후 9:09:34  [Apache] 	Status change detected: running
+오후 9:09:36  [mysql] 	Attempting to start MySQL app...
+오후 9:09:36  [mysql] 	Status change detected: running
+오후 9:16:21  [Apache] 	Attempting to stop Apache (PID: 14232)
+오후 9:16:21  [Apache] 	Attempting to stop Apache (PID: 5852)
+오후 9:16:22  [Apache] 	Status change detected: stopped
+오후 9:16:23  [Apache] 	Attempting to start Apache app...
+오후 9:16:23  [Apache] 	Status change detected: running
+오전 12:01:48  [Apache] 	Attempting to stop Apache (PID: 260)
+오전 12:01:48  [Apache] 	Attempting to stop Apache (PID: 10672)
+오전 12:01:48  [Apache] 	Status change detected: stopped
+오전 12:01:48  [mysql] 	Attempting to stop MySQL app...
+오전 12:01:49  [mysql] 	Status change detected: stopped
+오전 12:04:40  [main] 	Deinitializing Modules
+오전 12:04:40  [main] 	Deinitializing Control Panel
+
+오후 8:52:28  [main] 	Initializing Control Panel
+오후 8:52:28  [main] 	Windows Version:  Enterprise  64-bit
+오후 8:52:28  [main] 	XAMPP Version: 8.2.12
+오후 8:52:28  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 8:52:28  [main] 	Running with Administrator rights - good!
+오후 8:52:28  [main] 	XAMPP Installation Directory: "d:\amp\"
+오후 8:52:28  [main] 	Checking for prerequisites
+오후 8:52:28  [main] 	All prerequisites found
+오후 8:52:28  [main] 	Initializing Modules
+오후 8:52:28  [main] 	The FileZilla module is disabled
+오후 8:52:28  [main] 	The Mercury module is disabled
+오후 8:52:28  [main] 	The Tomcat module is disabled
+오후 8:52:28  [main] 	Starting Check-Timer
+오후 8:52:28  [main] 	Control Panel Ready
+오후 8:52:40  [Apache] 	Attempting to start Apache app...
+오후 8:52:40  [Apache] 	Status change detected: running
+오후 8:52:41  [mysql] 	Attempting to start MySQL app...
+오후 8:52:41  [mysql] 	Status change detected: running
+오후 8:52:42  [mysql] 	Status change detected: stopped
+오후 8:52:42  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 8:52:42  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 8:52:42  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:52:42  [mysql] 	Press the Logs button to view error logs and check
+오후 8:52:42  [mysql] 	the Windows Event Viewer for more clues
+오후 8:52:42  [mysql] 	If you need more help, copy and post this
+오후 8:52:42  [mysql] 	entire log window on the forums
+오후 8:52:46  [mysql] 	Attempting to start MySQL app...
+오후 8:52:46  [mysql] 	Status change detected: running
+오후 8:52:47  [mysql] 	Status change detected: stopped
+오후 8:52:47  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 8:52:47  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 8:52:47  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:52:47  [mysql] 	Press the Logs button to view error logs and check
+오후 8:52:47  [mysql] 	the Windows Event Viewer for more clues
+오후 8:52:47  [mysql] 	If you need more help, copy and post this
+오후 8:52:47  [mysql] 	entire log window on the forums
+오후 8:52:53  [mysql] 	Attempting to start MySQL app...
+오후 8:52:53  [mysql] 	Status change detected: running
+오후 8:52:54  [mysql] 	Status change detected: stopped
+오후 8:52:54  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 8:52:54  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 8:52:54  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:52:54  [mysql] 	Press the Logs button to view error logs and check
+오후 8:52:54  [mysql] 	the Windows Event Viewer for more clues
+오후 8:52:54  [mysql] 	If you need more help, copy and post this
+오후 8:52:54  [mysql] 	entire log window on the forums
+오후 8:53:16  [mysql] 	Attempting to start MySQL app...
+오후 8:53:16  [mysql] 	Status change detected: running
+오후 8:55:14  [Apache] 	Attempting to stop Apache (PID: 24564)
+오후 8:55:14  [Apache] 	Attempting to stop Apache (PID: 34476)
+오후 8:55:14  [Apache] 	Status change detected: stopped
+오후 8:55:15  [Apache] 	Attempting to start Apache app...
+오후 8:55:16  [Apache] 	Status change detected: running
+오후 8:55:48  [main] 	Executing "d:\amp\phpMyAdmin"
+오후 8:56:17  [mysql] 	Attempting to stop MySQL app...
+오후 8:56:17  [mysql] 	Status change detected: stopped
+오후 8:57:39  [mysql] 	Attempting to start MySQL app...
+오후 8:57:49  [mysql] 	Attempting to start MySQL app...
+오후 8:57:49  [mysql] 	Status change detected: running
+오후 8:57:51  [mysql] 	Status change detected: stopped
+오후 8:57:51  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 8:57:51  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 8:57:51  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:57:51  [mysql] 	Press the Logs button to view error logs and check
+오후 8:57:51  [mysql] 	the Windows Event Viewer for more clues
+오후 8:57:51  [mysql] 	If you need more help, copy and post this
+오후 8:57:51  [mysql] 	entire log window on the forums
+오후 8:59:14  [mysql] 	Status change detected: running
+오후 8:59:15  [mysql] 	Status change detected: stopped
+오후 8:59:15  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 8:59:15  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 8:59:15  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:59:15  [mysql] 	Press the Logs button to view error logs and check
+오후 8:59:15  [mysql] 	the Windows Event Viewer for more clues
+오후 8:59:15  [mysql] 	If you need more help, copy and post this
+오후 8:59:15  [mysql] 	entire log window on the forums
+오후 9:00:28  [Apache] 	Status change detected: stopped
+오후 9:00:28  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 9:00:28  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 9:00:28  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 9:00:28  [Apache] 	Press the Logs button to view error logs and check
+오후 9:00:28  [Apache] 	the Windows Event Viewer for more clues
+오후 9:00:28  [Apache] 	If you need more help, copy and post this
+오후 9:00:28  [Apache] 	entire log window on the forums
+오후 9:00:29  [mysql] 	Status change detected: running
+오후 9:00:35  [Apache] 	Status change detected: running
+오후 9:07:06  [Apache] 	Status change detected: stopped
+오후 9:07:06  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 9:07:06  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 9:07:06  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 9:07:06  [Apache] 	Press the Logs button to view error logs and check
+오후 9:07:06  [Apache] 	the Windows Event Viewer for more clues
+오후 9:07:06  [Apache] 	If you need more help, copy and post this
+오후 9:07:06  [Apache] 	entire log window on the forums
+오후 9:07:06  [mysql] 	Status change detected: stopped
+오후 9:07:06  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 9:07:06  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 9:07:06  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 9:07:06  [mysql] 	Press the Logs button to view error logs and check
+오후 9:07:06  [mysql] 	the Windows Event Viewer for more clues
+오후 9:07:06  [mysql] 	If you need more help, copy and post this
+오후 9:07:06  [mysql] 	entire log window on the forums
+오후 9:09:34  [Apache] 	Status change detected: running
+오후 9:09:36  [mysql] 	Status change detected: running
+오후 9:16:22  [Apache] 	Status change detected: stopped
+오후 9:16:22  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 9:16:22  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 9:16:22  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 9:16:22  [Apache] 	Press the Logs button to view error logs and check
+오후 9:16:22  [Apache] 	the Windows Event Viewer for more clues
+오후 9:16:22  [Apache] 	If you need more help, copy and post this
+오후 9:16:22  [Apache] 	entire log window on the forums
+오후 9:16:23  [Apache] 	Status change detected: running
+오전 12:01:48  [Apache] 	Status change detected: stopped
+오전 12:01:48  [Apache] 	Error: Apache shutdown unexpectedly.
+오전 12:01:48  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오전 12:01:48  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오전 12:01:48  [Apache] 	Press the Logs button to view error logs and check
+오전 12:01:48  [Apache] 	the Windows Event Viewer for more clues
+오전 12:01:48  [Apache] 	If you need more help, copy and post this
+오전 12:01:48  [Apache] 	entire log window on the forums
+오전 12:01:49  [mysql] 	Status change detected: stopped
+오전 12:01:49  [mysql] 	Error: MySQL shutdown unexpectedly.
+오전 12:01:49  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오전 12:01:49  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오전 12:01:49  [mysql] 	Press the Logs button to view error logs and check
+오전 12:01:49  [mysql] 	the Windows Event Viewer for more clues
+오전 12:01:49  [mysql] 	If you need more help, copy and post this
+오전 12:01:49  [mysql] 	entire log window on the forums
+오전 12:04:45  [main] 	Deinitializing Modules
+오전 12:04:45  [main] 	Deinitializing Control Panel
+

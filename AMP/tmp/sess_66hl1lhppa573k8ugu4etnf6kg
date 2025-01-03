@@ -1,0 +1,4 @@
+ PMA_token |s:32:"72604a46295b6559635d2e5f4070215c"; HMAC_secret |s:16:"z}mO.Q#-P1aRMU%B";browser_access_time|a:1:{s:7:"default";i:1735315177;}Import_message|a:1:{s:7:"message";s:384:"<div class="alert alert-danger" role="alert"><h1>오류</h1><p>
+    <strong>MySQL 메시지: </strong><a href="./url.php?url=https%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F5.7%2Fen%2Fserver-error-reference.html" target="mysql_doc"><img src="themes/dot.gif" title="문서" alt="문서" class="icon ic_b_help"></a>
+</p>
+<code>연결할 수 없습니다: 잘못된 설정.</code><br></div>";}errors|a:0:{}
